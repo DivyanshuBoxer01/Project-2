@@ -135,20 +135,25 @@ h3{
     font-size: 1.8em;
     font-weight: 700;
 }
+.banner{
+    display: flex;
+    min-width: 300px;
+    width: 40%;
+}
 .big{
     display:flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .small{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .mini{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
 
 }
 
