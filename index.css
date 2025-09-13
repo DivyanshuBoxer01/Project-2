@@ -124,6 +124,7 @@ nav a sup{
 main{
     padding-top: 20px;
     padding-bottom: 15px;
+    overflow: hidden;
 }
 h3{
     color: #3e4152;
@@ -172,6 +173,7 @@ footer{
     background-color: #fafbfc;
     margin-left: 100px;
     margin-right: 100px;
+    overflow: hidden;
 }
 
 .foot{
